@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6073bc83-844f-4ace-b409-faf23527b008" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/DesignPaterns/DesignPaternsApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/DesignPaterns/behavior_patterns/strategy_pattern/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/DesignPaterns/behavior_patterns/strategy_pattern/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/DesignPaterns/behavior_patterns/strategy_pattern/SelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/DesignPaterns/behavior_patterns/strategy_pattern/SortStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/DesignPaterns/behavior_patterns/strategy_pattern/SortedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/DesignPaterns/behavior_patterns/template_method_pattern/ContactPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/DesignPaterns/behavior_patterns/template_method_pattern/DetailPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/DesignPaterns/behavior_patterns/template_method_pattern/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/DesignPaterns/behavior_patterns/template_method_pattern/PageTemplate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/DesignPaterns/creational_patterns/abstract_factory_pattern/Chair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/DesignPaterns/creational_patterns/abstract_factory_pattern/FurnitureAbstractFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/DesignPaterns/creational_patterns/abstract_factory_pattern/FurnitureFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/DesignPaterns/creational_patterns/abstract_factory_pattern/MaterialType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/DesignPaterns/creational_patterns/abstract_factory_pattern/PlasticChair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/DesignPaterns/creational_patterns/abstract_factory_pattern/PlasticFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/DesignPaterns/creational_patterns/abstract_factory_pattern/PlasticTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/DesignPaterns/creational_patterns/abstract_factory_pattern/Table.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/DesignPaterns/creational_patterns/abstract_factory_pattern/WoodChair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/DesignPaterns/creational_patterns/abstract_factory_pattern/WoodFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/DesignPaterns/creational_patterns/abstract_factory_pattern/WoodTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/DesignPaterns/creational_patterns/factory_pattern/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/DesignPaterns/creational_patterns/factory_pattern/BankFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/DesignPaterns/creational_patterns/factory_pattern/BankType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/DesignPaterns/creational_patterns/factory_pattern/TPBank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/DesignPaterns/creational_patterns/factory_pattern/VietcomBank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/DesignPaterns/structural_patterns/adapter_pattern/JapaneseAdaptee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/DesignPaterns/structural_patterns/adapter_pattern/TranslatorAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/DesignPaterns/structural_patterns/adapter_pattern/VietnameseTarget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/DesignPaterns/structural_patterns/decorator_pattern/EmployeeComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/DesignPaterns/structural_patterns/decorator_pattern/EmployeeConcreteComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/DesignPaterns/structural_patterns/decorator_pattern/EmployeeDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/DesignPaterns/structural_patterns/decorator_pattern/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/DesignPaterns/structural_patterns/decorator_pattern/TeamLeader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/DesignPaterns/structural_patterns/decorator_pattern/TeamMember.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/DesignPaterns/DesignPaternsApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/DesignPaterns-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.example.DesignPaterns.DesignPaternsApplicationTests.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/com.example.DesignPaterns.DesignPaternsApplicationTests.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2PvNUqZrPEAI2BsE4LY21J02nJK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Study/Spring/DesignPatern/DesignPaterns&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="abstract_factory_patern" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.DesignPaternsApplication">
+    <configuration name="AbstractFactoryMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.DesignPaterns.abstract_factory_patern.AbstractFactoryMain" />
+      <module name="DesignPaterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.DesignPaterns.abstract_factory_pattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DesignPaternsApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.DesignPaterns.DesignPaternsApplication" />
+      <module name="DesignPaterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.DesignPaterns.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DesignPaternsApplication" />
+        <item itemvalue="Application.AbstractFactoryMain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6073bc83-844f-4ace-b409-faf23527b008" name="Changes" comment="" />
+      <created>1684333614070</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684333614070</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/DesignPaterns/DesignPaternsApplication.java</url>
+          <line>74</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/DesignPaterns/behavior_patterns/template_method_pattern/PageTemplate.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
