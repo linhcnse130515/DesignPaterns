@@ -5,69 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6073bc83-844f-4ace-b409-faf23527b008" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HELP.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img_5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/DesignPaterns/DesignPaternsApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/DesignPaterns/behavior_patterns/strategy_pattern/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/DesignPaterns/behavior_patterns/strategy_pattern/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/DesignPaterns/behavior_patterns/strategy_pattern/SelectionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/DesignPaterns/behavior_patterns/strategy_pattern/SortStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/DesignPaterns/behavior_patterns/strategy_pattern/SortedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/DesignPaterns/behavior_patterns/template_method_pattern/ContactPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/DesignPaterns/behavior_patterns/template_method_pattern/DetailPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/DesignPaterns/behavior_patterns/template_method_pattern/HomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/DesignPaterns/behavior_patterns/template_method_pattern/PageTemplate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/DesignPaterns/creational_patterns/abstract_factory_pattern/Chair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/DesignPaterns/creational_patterns/abstract_factory_pattern/FurnitureAbstractFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/DesignPaterns/creational_patterns/abstract_factory_pattern/FurnitureFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/DesignPaterns/creational_patterns/abstract_factory_pattern/MaterialType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/DesignPaterns/creational_patterns/abstract_factory_pattern/PlasticChair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/DesignPaterns/creational_patterns/abstract_factory_pattern/PlasticFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/DesignPaterns/creational_patterns/abstract_factory_pattern/PlasticTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/DesignPaterns/creational_patterns/abstract_factory_pattern/Table.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/DesignPaterns/creational_patterns/abstract_factory_pattern/WoodChair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/DesignPaterns/creational_patterns/abstract_factory_pattern/WoodFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/DesignPaterns/creational_patterns/abstract_factory_pattern/WoodTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/DesignPaterns/creational_patterns/factory_pattern/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/DesignPaterns/creational_patterns/factory_pattern/BankFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/DesignPaterns/creational_patterns/factory_pattern/BankType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/DesignPaterns/creational_patterns/factory_pattern/TPBank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/DesignPaterns/creational_patterns/factory_pattern/VietcomBank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/DesignPaterns/structural_patterns/adapter_pattern/JapaneseAdaptee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/DesignPaterns/structural_patterns/adapter_pattern/TranslatorAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/DesignPaterns/structural_patterns/adapter_pattern/VietnameseTarget.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/DesignPaterns/structural_patterns/decorator_pattern/EmployeeComponent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/DesignPaterns/structural_patterns/decorator_pattern/EmployeeConcreteComponent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/DesignPaterns/structural_patterns/decorator_pattern/EmployeeDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/DesignPaterns/structural_patterns/decorator_pattern/Manager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/DesignPaterns/structural_patterns/decorator_pattern/TeamLeader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/DesignPaterns/structural_patterns/decorator_pattern/TeamMember.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/DesignPaterns/DesignPaternsApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/DesignPaterns-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.example.DesignPaterns.DesignPaternsApplicationTests.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/com.example.DesignPaterns.DesignPaternsApplicationTests.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/DesignPaterns/creational_patterns/prototype_pattern/Computer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/DesignPaterns/DesignPaternsApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/DesignPaterns/DesignPaternsApplication.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -179,7 +119,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/example/DesignPaterns/DesignPaternsApplication.java</url>
-          <line>74</line>
+          <line>75</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">

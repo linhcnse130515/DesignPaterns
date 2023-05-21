@@ -11,6 +11,7 @@ import com.example.DesignPaterns.creational_patterns.abstract_factory_pattern.*;
 import com.example.DesignPaterns.creational_patterns.factory_pattern.Bank;
 import com.example.DesignPaterns.creational_patterns.factory_pattern.BankFactory;
 import com.example.DesignPaterns.creational_patterns.factory_pattern.BankType;
+import com.example.DesignPaterns.creational_patterns.prototype_pattern.Computer;
 import com.example.DesignPaterns.structural_patterns.adapter_pattern.JapaneseAdaptee;
 import com.example.DesignPaterns.structural_patterns.adapter_pattern.TranslatorAdapter;
 import com.example.DesignPaterns.structural_patterns.adapter_pattern.VietnameseTarget;
@@ -108,5 +109,14 @@ public class DesignPaternsApplication implements ApplicationRunner {
 		EmployeeComponent teamLeaderAndManager = new Manager(teamLeader);
 		teamLeaderAndManager.showBasicInformation();
 		teamLeaderAndManager.doTask();
+	}
+
+	private void runPrototypePattern() {
+		Computer computer1 = new Computer("Window 10", "Word 2013", "BKAV", "Chrome v69", "Skype");
+		Computer computer2 = computer1.clone();
+		computer2.setOthers("Skype, Teamviewer, FileZilla Client");
+
+		System.out.println(computer1);
+		System.out.println(computer2);
 	}
 }
